@@ -4,53 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3f61a44-c40e-4298-940c-6eea87429c18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/bin/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/bin/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/bin/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/bin/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/bin/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/bin/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/bin/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/bin/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/bin/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/bin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/bin/src/main/java/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/bin/src/main/java/Repositories/UserRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/bin/src/main/java/controllers/TransactionController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/bin/src/main/java/controllers/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/bin/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/Repositories/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/controllers/TransactionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/controllers/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/login/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Repositories/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/TransactionController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="a3f61a44-c40e-4298-940c-6eea87429c18" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +22,11 @@
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
       <map>
         <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
