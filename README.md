@@ -22,13 +22,16 @@ To-Do:
 
 * Transfer money between accounts
 * View statements
-* Style HTML
+* Make HTML fancier
 
 ## Getting Started
 
 * git clone https://github.com/cmgospod/bank-project.git
-* Adjust the url in index.js if necessary
+* Adjust the url in index.js and hibernate.cfg.xml if necessary
 * Dependencies and configuration are stored in pom.xml and hibernate.cfg.xml
+* This is what it should look like:
+![Login page](https://raw.githubusercontent.com/cmgospod/bank-project/main/images/Capture.PNG)
+
 
 ## Usage
 
